@@ -3,4 +3,4 @@
 informar o status do aluno. 
 Média >=7: Aprovado
 4 =< Média <= 6,9: Reuperação
-Média <=3,9 Recuperação 
+Média <=3,9 Reprovado
